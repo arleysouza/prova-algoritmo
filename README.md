@@ -40,7 +40,8 @@ Cada exercício vale 2 pts.
 Codifique no arquivo `src/um.js` um programa para listar o __id__ e a __descrição__ de cada produto.
 
 #### Exercício 2
-Codifique no arquivo `src/dois.js` um programa que recebe o __id__ de um alimento e retorna a __descrição__ e __calorias__ (propriedade __energy__) desse alimento. O programa deve dizer se o ID não foi localizado. 
+Codifique no arquivo `src/dois.js` um programa que recebe o __id__ de um alimento e retorna a __descrição__ e __calorias__ (propriedade __energy__) desse alimento.
+ 
 Resultado esperado para `npm run dois 29`:
 ```
 29: Curau, milho verde -  78
