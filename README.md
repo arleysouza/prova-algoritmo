@@ -76,7 +76,7 @@ Alterar o código do Exercício 3 para receber a descrição do alimento e retor
 
 Resultado esperado para `npm run quatro "Farinha, de trigo"`:
 ```
-281: Cação, posta, com farinha de trigo, frita -  208 - Pescados e frutos do mar
+35: Farinha, de trigo -  360 - Cereais e derivados
 ```
 Resultado esperado para `npm run quatro Farinha`:
 ```
