@@ -57,6 +57,7 @@ Não foi fornecido o ID do alimento
 
 #### Exercício 3
 Alterar o código do Exercício 2 para retornar também o nome da categoria do alimento.
+
 Resultado esperado para `npm run tres 29`:
 ```
 29: Curau, milho verde -  78 - Cereais e derivados
@@ -71,7 +72,24 @@ Não foi fornecido o ID do alimento
 ```
 
 #### Exercício 4
-Alterar o código do Exercício 3 para receber um termo que é parte da descrição do alimento e retorna o primeiro alimento que bate com o termo buscado. 
+Alterar o código do Exercício 3 para receber a descrição do alimento e retorna o primeiro alimento que bate com o termo buscado. Observe que é necessário envolver por aspas quando existem espaços.
+
+Resultado esperado para `npm run quatro "Farinha, de trigo"`:
+```
+281: Cação, posta, com farinha de trigo, frita -  208 - Pescados e frutos do mar
+```
+Resultado esperado para `npm run quatro Farinha`:
+```
+Descrição Farinha não localizada
+```
+Resultado esperado para `npm run quatro`:
+```
+Não foi fornecida a descrição do alimento
+```
+
+#### Exercício 5
+Alterar o código do Exercício 4 para receber um termo que é parte da descrição do alimento e retorna o primeiro alimento que bate com o termo buscado. 
+
 Resultado esperado para `npm run cinco farinha`:
 ```
 281: Cação, posta, com farinha de trigo, frita -  208 - Pescados e frutos do mar
