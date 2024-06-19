@@ -41,7 +41,7 @@ Codifique no arquivo `src/um.js` um programa para listar o __id__ e a __descriç
 
 #### Exercício 2
 Codifique no arquivo `src/dois.js` um programa que recebe o __id__ de um alimento e retorna a __descrição__ e __calorias__ (propriedade __energy__) desse alimento.
- 
+
 Resultado esperado para `npm run dois 29`:
 ```
 29: Curau, milho verde -  78
@@ -56,7 +56,7 @@ Não foi fornecido o ID do alimento
 ```
 
 #### Exercício 3
-Alterar o código do Exercício 2 para retornar também o nome da categoria do alimento. 
+Alterar o código do Exercício 2 para retornar também o nome da categoria do alimento.
 Resultado esperado para `npm run tres 29`:
 ```
 29: Curau, milho verde -  78 - Cereais e derivados
